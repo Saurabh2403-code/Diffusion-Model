@@ -1,5 +1,5 @@
 
-![Face Generation](assets/videos/faces_generation-7.gif)
+![Face Generation](assets/videos/face_generation-7.gif)
 ![Face Generation](assets/videos/faces_generation.gif)
 # Latent Diffusion Model from Scratch
 
