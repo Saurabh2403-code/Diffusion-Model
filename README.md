@@ -59,4 +59,3 @@ python training/train_ddpm.py
 
 # Generate faces
 python inference/generate.py
-```
