@@ -66,5 +66,4 @@ python training/train_ddpm.py
 # Generate faces
 python inference/generate.py
 # DDPM for 2d Datasaurus with MLP with Variance Conserving Framework
-![Alt Text](https://drive.google.com/file/d/1ee5MIvpIHGxhly-KaD6p8rxMTBiR5w_y/view?usp=share_link)
-![]
+![Alt Text](assets/videos/diffusion_variance_conserving_with_last_part_only.gif)
