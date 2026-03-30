@@ -8,7 +8,7 @@ without any diffusion libraries.
 
 ## Results
 
-![Face Generation](assets/generated_face 3.png)
+![Face Generation](assets/generated_face_3.png)
 
 [Grid of generated faces]
 [VAE reconstruction comparison]
