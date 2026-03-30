@@ -6,13 +6,13 @@ Implemented complete latent diffusion model architecture
 (similar to Stable Diffusion) from scratch using PyTorch,
 without any diffusion libraries.
 
-## Results
+# Results
 
-# Generated Image
+## Generated Image
 ![Face Generation](assets/generated_face_3.png)
-# Original Image
+## Original Image
 ![Face Generation](assets/Original_Image.png)
-# Reconstructed Image
+## Reconstructed Image
 ![Face Generation](assets/VAE_reconstruction.png)
 
 ## Architecture
@@ -65,5 +65,5 @@ python training/train_ddpm.py
 
 # Generate faces
 python inference/generate.py
-# DDPM for 2d Datasaurus with MLP with Variance Conserving Framework
+### DDPM for 2d Datasaurus with MLP with Variance Conserving Framework
 ![Alt Text](assets/videos/diffusion_variance_conserving_with_last_part_only.gif)
