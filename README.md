@@ -1,3 +1,8 @@
+<div align="center">
+  <video src="https://github.com/Saurabh2403-code/Diffusion-Model/blob/36a898fd1ae4f8f95103c9004b87ddc761e04c7f/assets/videos/face_generation-7.mp4" width="400" controls muted autoplay loop>
+  </video>
+</div>
+
 
 ![Face Generation](assets/videos/faces_generation.gif)
 # Latent Diffusion Model from Scratch
