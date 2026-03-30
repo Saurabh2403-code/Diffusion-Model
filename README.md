@@ -60,24 +60,3 @@ python training/train_ddpm.py
 # Generate faces
 python inference/generate.py
 ```
-
-## Priority Fixes Before Pushing
-```
-1. Fix integer division in VAE init
-2. Add latent normalization to DDPM training
-3. Add denormalization to inference
-4. Fix import naming consistency
-5. Add mean_global/std_global computation
-6. Remove print statements and debug comments
-7. Add requirements.txt
-8. Add .gitignore (ignore .pth files — too large)
-```
-
-## .gitignore
-```
-*.pth
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-data/
-/kaggle/
