@@ -1,13 +1,15 @@
 
-![Face Generation](assets/videos/face_generation-7.gif),![Face Generation](assets/videos/faces_generation.gif)
+![Face Generation](assets/videos/face_generation-7.gif)
+![Face Generation](assets/videos/faces_generation.gif)
 # Latent Diffusion Model from Scratch
-
 Implemented complete latent diffusion model architecture 
 (similar to Stable Diffusion) from scratch using PyTorch,
 without any diffusion libraries.
 
 ## Results
-[GIF of faces being generated from noise]
+
+![Face Generation](assets/generated_face 3.png)
+
 [Grid of generated faces]
 [VAE reconstruction comparison]
 
