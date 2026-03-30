@@ -1,4 +1,4 @@
-![Alt Text](assets/videos/faces_gen.gif)
+![Alt Text](assets/videos/faces_generation.gif)
 # Latent Diffusion Model from Scratch
 
 Implemented complete latent diffusion model architecture 
