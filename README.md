@@ -1,8 +1,5 @@
-<div align="center">
-  <video src="assets/videos/face_generation-7.mp4" width="400" controls muted autoplay loop>
-  </video>
-</div>
 
+![Alt Text](assets/videos/faces_generation.gif)
 # Latent Diffusion Model from Scratch
 
 Implemented complete latent diffusion model architecture 
