@@ -7,11 +7,12 @@ Implemented complete latent diffusion model architecture
 without any diffusion libraries.
 
 ## Results
-
+#Generated Image
 ![Face Generation](assets/generated_face_3.png)
-
-[Grid of generated faces]
-[VAE reconstruction comparison]
+#Original Image
+![Face Generation](assets/Original_Image.png)
+# Reconstructed Image
+![Face Generation](assets/VAE_reconstruction.png)
 
 ## Architecture
 ### VAE
