@@ -5,6 +5,7 @@
 Implemented complete latent diffusion model architecture 
 (similar to Stable Diffusion) from scratch using PyTorch,
 without any diffusion libraries.
+###Architecture
 
 # Results
 
@@ -16,6 +17,7 @@ without any diffusion libraries.
 ![Face Generation](assets/VAE_reconstruction.png)
 
 ## Architecture
+![Alt Text](Architecture2.png)
 ### VAE
 - Encoder: 3 → 64 → 128 → 8 channels with residual blocks
 - Latent space: 4 channels at 16x16
